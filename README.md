@@ -1,6 +1,6 @@
 Data Analysis Using SQL
 1.	Show all customer records
-2.  SELECT * FROM customers;
+    SELECT * FROM customers;
 3.	Show total number of customers
 4.  SELECT count(*) FROM customers;
 5.	Show transactions for Chennai market (market code for chennai is Mark001)
